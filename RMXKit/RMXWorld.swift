@@ -10,7 +10,10 @@ import Foundation
 import UIKit
 import SceneKit
 
-
+/*
+    @abstract some chat
+    @discussion this may do a thing
+*/
 protocol _RMXWorld : RMXNamed {
     //var nodeGenerator:
     var sprites: [RMXSprite] { get }
