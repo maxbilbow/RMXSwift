@@ -84,6 +84,7 @@ class GameViewController: RMXWorld , SCNSceneRendererDelegate {
         scnView.backgroundColor = UIColor.blackColor()
         
         
+        
         // add a tap gesture recognizer
         
         //        UITapGestureRecognizer
